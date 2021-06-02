@@ -1,6 +1,6 @@
 {
   "name": "@shattercms/users",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "ShatterCMS submodule for handling basic user authentication and storage.",
   "keywords": [
     "shattercms"
